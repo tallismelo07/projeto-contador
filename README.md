@@ -28,7 +28,7 @@ Digite o segundo parâmetro
 30
 A saída será:
 
-python
+java
 Copiar código
 Imprimindo o número 1
 Imprimindo o número 2
